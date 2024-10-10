@@ -59,6 +59,11 @@ if ($kode=="D04"){
 	$harga=5000;
 }
 
+if($kode=="E05"){
+	$nama="Printer";
+	$harga=120000;
+}
+
 $subtotal=$harga*$jumlah;
 if ($subtotal>=100000){
 	$diskon=0.15*$subtotal;

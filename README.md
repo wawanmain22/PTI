@@ -1,5 +1,3 @@
-# PTI
-
 # Kelompok
 1. Faris
 2. Darwan
@@ -47,3 +45,15 @@ BANDUNG LANGSUNG PAKE PINTU DORAEMON KE PANGANDARAN PAKE MOTOR GS 1200
 
 - **Jarak**: Sekitar **200-220 km** tergantung rute.
 - **Estimasi Waktu Perjalanan**: Sekitar **2-4 jam**, MODE GERENGSENG
+
+## Fadly
+
+Bandung->Jogja->Banyuwangi->Bali
+Estimasi : Sesampainya
+Roadtrip ke Bali Menggunakan Yamaha Alfa
+Jangan Lupa Sediakan oli samping
+
+## Faris
+
+P PANGANDARAN - (VERSI PAARRRIIISSSSS)
+BANDUNG > GARUT > TASIK > CIAMIS > BANJAR > PANGANDARAN > PANGANDARAN > CILACAP > DEANDELSS > PURWOKERTO > MAGELANG > SOLO

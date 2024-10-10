@@ -7,3 +7,6 @@
 4. Ridwan
 5. Rangga
 6. Dhika
+
+Fadly
+Roadtrip ke Bali Menggunakan Yamaha Alfa

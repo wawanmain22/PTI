@@ -17,6 +17,7 @@
                 <option value="B02">B02 - Mouse</option>
                 <option value="C03">C03 - Harddisk</option>
                 <option value="D04">D04 - Mouse Pad</option>
+		<option value="TDR3000"> TDR3000 - PRINTER </option>
                 </select>          </td>
         </tr>
         <tr>
@@ -39,6 +40,8 @@ $harga=0;
 $jumlah=$_POST['jumlah'];
 $kode=$_POST['kode'];
 
+//code processing
+
 if ($kode=="A01"){
 	$nama="Speaker";
 	$harga=50000;
@@ -58,6 +61,13 @@ if ($kode=="D04"){
 	$nama="Mouse Pad";
 	$harga=5000;
 }
+
+if ($kode=="TDR3000"){
+	$nama="PRINTER";
+	$harga=7000000;
+}
+
+//processing subtotal
 
 $subtotal=$harga*$jumlah;
 if ($subtotal>=100000){

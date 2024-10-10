@@ -17,7 +17,7 @@
                 <option value="B02">B02 - Mouse</option>
                 <option value="C03">C03 - Harddisk</option>
                 <option value="D04">D04 - Mouse Pad</option>
-                <option value="G05">G05 - Printer</option>
+                <option value="F05">F05 - Printer</option>
                 </select>          </td>
         </tr>
         <tr>
@@ -60,9 +60,9 @@ if ($kode=="D04"){
 	$harga=5000;
 }
 
-if ($kode=="G05"){
+if($kode=="E05"){
 	$nama="Printer";
-	$harga=850000;
+	$harga=120000;
 }
 
 $subtotal=$harga*$jumlah;

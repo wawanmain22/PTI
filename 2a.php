@@ -60,7 +60,6 @@ if ($kode=="D04"){
 	$harga=5000;
 }
 
-
 if($kode=="E05"){
 	$nama="Printer";
 	$harga=120000;

@@ -18,8 +18,8 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
-        'name',
-        'email',
+
+        'username',
         'password',
     ];
 
@@ -39,6 +39,6 @@ class User extends Authenticatable
      * @var array<string, string>
      */
     protected $casts = [
-        'email_verified_at' => 'datetime',
+        // Tidak ada lagi 'email_verified_at' karena kita sudah menghapus kolom tersebut
     ];
 }
